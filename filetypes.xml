@@ -4,6 +4,7 @@
     <extensionMap>
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
